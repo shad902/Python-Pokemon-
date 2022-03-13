@@ -1,3 +1,3 @@
 # Resume project 1
-Python Pokemon project [December 2020]
+Python Pokemon project
 CSE Project- Pokemon battle simulator in Python
